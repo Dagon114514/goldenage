@@ -1,0 +1,47 @@
+{
+  "armorSetName": "azathoth_ring",
+  "performanceMode": true,
+  "additionalSetPieces": [{
+    "itemKey": "golden_age:azathoth_ring"
+  }],
+  "hideGeneratedTooltip": true,
+  "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "irons_spellbooks:max_mana",
+      "modifierUUID": "c2f9b96b-1c84-4c05-8d75-1f27ae6e6ec7",
+      "value": 6666666
+    },
+    {
+      "type": "attribute",
+      "name": "irons_spellbooks:mana_regen",
+      "modifierUUID": "36b9b682-3ae5-46ce-a234-ded839ff1535",
+      "value": 666.66
+    },
+    {
+      "type": "attribute",
+      "name": "irons_spellbooks:cooldown_reduction",
+      "modifierUUID": "22241da7-8362-4b98-a98e-0ac35d8103e8",
+      "value": 44.44
+    },
+    {
+      "type": "attribute",
+      "name": "irons_spellbooks:cast_time_reduction",
+      "modifierUUID": "80651ad5-7334-4262-9a33-afa13c0882c0",
+      "value": 44.44
+    },
+    {
+      "type": "attribute",
+      "name": "irons_spellbooks:spell_resist",
+      "modifierUUID": "84d0d6c2-b63c-4fca-94d5-cebc10e35f5a",
+      "value": 44.44
+    },
+    
+    {
+      "type": "attribute",
+      "name": "irons_spellbooks:spell_power",
+      "modifierUUID": "d6220726-9b02-4119-8767-e1d9537b0474",
+      "value": 4.44
+    }
+  ]
+}

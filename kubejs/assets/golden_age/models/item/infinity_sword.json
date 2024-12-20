@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "golden_age:item/infinity_sword/layer_0"
+  }
+}

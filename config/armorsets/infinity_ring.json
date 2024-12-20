@@ -1,0 +1,102 @@
+{
+  "armorSetName": "infinity_ring",
+  "performanceMode": false,
+  "head": {
+    "itemKey": "golden_age:infinity_ring"
+  },
+  "mainHand": {
+    "itemKey": "golden_age:infinity_ring"
+  },
+  "additionalSetPieces": [{
+    "itemKey": "golden_age:infinity_ring"
+  }],
+  "hideGeneratedTooltip": true,
+  "partialBonusRequiredAmount": 1,
+  "partialSetBonuses": [
+    {
+      "type": "effect",
+      "name": "irons_spellbooks:oakskin",
+      "value": 18.0,
+      "interactionType": "self",
+      "interactionDuration": 200
+    },
+    {
+      "type": "effect",
+      "name": "minecraft:instant_health",
+      "value": 18.0,
+      "interactionType": "self",
+      "interactionDuration": 200
+    },
+    {
+      "type": "effect",
+      "name": "minecraft:night_vision",
+      "value": 18.0,
+      "interactionType": "self",
+      "interactionDuration": 200
+    },
+
+    {
+      "type": "effect",
+      "name": "minecraft:resistance",
+      "value": 18.0,
+      "interactionType": "self",
+      "interactionDuration": 200
+    },
+    {
+      "type": "attribute",
+      "name": "generic.flying_speed",
+      "modifierUUID": "7862b718-e0d9-48ec-b619-d351f9286b7b",
+      "value": 4
+    },
+    {
+      "type": "attribute",
+      "name": "generic.knockback_resistance",
+      "modifierUUID": "0c5c09e1-f2bb-4ef2-98a9-2f84bbe424fa",
+      "value": 10
+    }
+  ],
+  "fullSetBonuses": [
+    {
+      "type": "effect",
+      "name": "irons_spellbooks:oakskin",
+      "value": 18.0,
+      "interactionType": "self",
+      "interactionDuration": 200
+    },
+    {
+      "type": "effect",
+      "name": "minecraft:resistance",
+      "value": 18.0,
+      "interactionType": "self",
+      "interactionDuration": 200
+    },
+    {
+      "type": "effect",
+      "name": "minecraft:instant_health",
+      "value": 18.0,
+      "interactionType": "self",
+      "interactionDuration": 200
+    },
+    {
+      "type": "effect",
+      "name": "minecraft:night_vision",
+      "value": 18.0,
+      "interactionType": "self",
+      "interactionDuration": 200
+    },
+
+    {
+      "type": "attribute",
+      "name": "generic.knockback_resistance",
+      "modifierUUID": "482993d7-16a5-49ec-ad62-d7ce87771830",
+      "value": 10
+    },
+    {
+      "type": "attribute",
+      "name": "generic.flying_speed",
+      "modifierUUID": "36470236-7c05-48c7-9122-d53c2877a1b1",
+      "value": 4
+    }
+
+  ]
+}
