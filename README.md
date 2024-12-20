@@ -10,3 +10,5 @@
 [KubeJS](https://github.com/KubeJS-Mods/KubeJS)：魔改支持
 
 [Minecraft](https://www.minecraft.net)：原版游戏
+
+[墨染琴弦mrqx](https://github.com/mrqx0195):技术支持
